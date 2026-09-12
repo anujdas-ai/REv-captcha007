@@ -1,0 +1,1 @@
+A security gatekeeping system designed for a high-security server that explicitly blocks human users and allows entry only to legitimate AI agents and scripts. If a user exhibits human traits (typing latency, emotional speech, hesitation), the system flags them as a "Meatbag" and denies access.
